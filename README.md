@@ -22,6 +22,46 @@ Nadi & Team
 
 ### 📚 In detail course content
 
+#### Day 1 session 1
+
+    - Introduction to automation testing	
+        - Why selenium	
+        - Selenium quick walkthrough	
+        - Why java before selenium	
+          
+    - Understanding of JVM, JRE & JDK	
+          
+    - Structure of a java program	
+          
+    - Data Types	
+        - Primitive data types	
+        - Reference data types  	
+    
+    - Keywords, Identifiers, Expressions	
+          
+    - Operators	
+        - Arithmetic operators	
+        - Logical operators	
+        - Bitwise operators	
+        - Assignment operators	
+        - Relational operators	
+        - 	
+      
+    - Variables	
+        - Declaration, Definition, Types		
+      
+    - Syntax, Types	
+    
+    - Object	
+      - Object Creation, Reference, Reference Variables	
+      
+    - Constructors	
+    - Pass by value and Pass by reference	
+    - Access Specifiers	
+      
+    - Debugging in Eclipse IDE	
+
+
 <details>
   <summary>Day 1 session 1</summary>
 

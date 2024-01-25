@@ -13,65 +13,63 @@ Happy learning!
 
 Nadi & Team
 
-# High level course content
+##### 📚 High level course content
 
 <img width="810" alt="Screenshot 2024-01-25 at 12 55 52 PM" src="https://github.com/naditraining/naditraining.github.io/assets/157560787/0b22fedc-abbb-4d78-9b30-0655bf14370a">
 
-# In detail course content
+##### 📚 In detail course content
 
 <details>
   <summary>Day 1 session 1</summary>
-  
 
-| Day | Session | Subject                                            | Type     |
-| --- | ------- | -------------------------------------------------- | -------- |
-| D1  | S1      | Introduction to automation testing                 |          |
-|     |         |       Why selenium                                 |          |
-|     |         |       Selenium quick walkthrough                   | Theory   |
-|     |         |       Why java before selenium                     |          |
-|     |         |                                                    |          |
-|     |         | Understanding of JVM, JRE & JDK                    | Theory   |
-|     |         |                                                    |          |
-|     |         | Structure of a java program                        | Demo     |
-|     |         |                                                    |          |
-|     |         | Data Types                                         | Theory   |
-|     |         |       Primitive data types                         |          |
-|     |         |       Reference data types                         |          |
-|     |         | Keywords, Identifiers, Expressions                 |          |
-|     |         |                                                    |          |
-|     |         | Best Practices                                     | Practice |
-|     |         |                                                    |          |
-|     |         | Operators                                          | Theory   |
-|     |         |     Arithmetic operators                           |          |
-|     |         |    Logical operators                               |          |
-|     |         |    Bitwise operators                               |          |
-|     |         |     Assignment operators                           |          |
-|     |         |    Relational operators                            |          |
-|     |         |    Best Practices                                  | Practice |
-|     |         |                                                    |          |
-|     |         | Variables                                          | Theory   |
-|     |         |      Declaration, Definition, Types                |          |
-|     |         |                                                    |          |
-|     |         | Best Practices                                     | Practice |
-|     |         |                                                    |          |
-|     |         | Syntax, Types                                      |          |
-|     |         |     Best Practices                                 |          |
-|     |         |                                                    |          |
-|     |         | Object                                             | Demo     |
-|     |         |    Object Creation, Reference, Reference Variables |          |
-|     |         |    Best Practices                                  |          |
-|     |         |                                                    |          |
-|     |         | Constructors                                       | Demo     |
-|     |         |      Pass by value and Pass by reference           |          |
-|     |         |     Access Specifiers                              |          |
-|     |         |                                                    |          |
-|     |         | Debugging in Eclipse IDE                           | Practice |
-
+    - Introduction to automation testing	
+    	-  Why selenium	
+    	-  Selenium quick walkthrough	
+    	-  Why java before selenium	
+    			
+    - Understanding of JVM, JRE & JDK	
+    			
+    - Structure of a java program	
+    			
+    - Data Types	
+    	- Primitive data types	
+    	- Reference data types  	
+    - Keywords, Identifiers, Expressions	
+    			
+    - Best Practices	Practice
+    			
+    - Operators	
+    	- Arithmetic operators	
+    	- Logical operators	
+    	- Bitwise operators	
+    	- Assignment operators	
+    	- Relational operators	
+    	- Best Practices	Practice
+    	
+    - Variables	
+    	- Declaration, Definition, Types	
+    	
+    - Best Practices	Practice
+    	
+    - Syntax, Types	
+    
+    - Best Practices	
+    	
+    - Object	
+    	- Object Creation, Reference, Reference Variables	
+    	- Best Practices	
+    	
+    - Constructors	
+    - Pass by value and Pass by reference	
+    - Access Specifiers	
+    	
+    - Debugging in Eclipse IDE	Practice
 </details>
 <details>
   <summary>Day 1 session 2</summary>
 
 | Day | Session | Subject                                            | Type     |
+| --- | ------- | -------------------------------------------------- | -------- |
 | D1  | S2      | Control Statement                                  | Theory   |
 |     |         |      If statement                                  |          |
 |     |         |      else statement                                |          |

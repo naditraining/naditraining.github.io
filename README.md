@@ -1,6 +1,9 @@
 
 # Welcome to Selenium training with us!
 
+![download](https://github.com/naditraining/naditraining.github.io/assets/157560787/752e5106-775c-459c-9c8d-29d9a085d37d)
+
+
 We are thrilled to have you here as a part of our growing community of learners and educators. Here, we believe in the power of understanding the basics correctly which open doors to endless possibilities.
 
 Whether you're a student looking into IT career, an IT employee who want to upgrade or switch career, or someone passionate about continuous learning, you've come to the right place. 

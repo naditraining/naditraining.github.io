@@ -6,7 +6,7 @@ description: Your site description
 
 # GitHub Pages settings
 remote_theme: "pages-themes/minimal"
-repository: your-github-username/your-repository-name
+repository: naditraining/naditraining.github.io
 branch: main
 permalink: /:year/:month/:day/:title/
 exclude:

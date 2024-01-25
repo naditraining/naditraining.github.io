@@ -23,9 +23,9 @@ Nadi & Team
   <summary>Day 1 session 1</summary>
 
     - Introduction to automation testing	
-    	-  Why selenium	
-    	-  Selenium quick walkthrough	
-    	-  Why java before selenium	
+      - Why selenium	
+      - Selenium quick walkthrough	
+      - Why java before selenium	
     			
     - Understanding of JVM, JRE & JDK	
     			
@@ -36,34 +36,28 @@ Nadi & Team
     	- Reference data types  	
     - Keywords, Identifiers, Expressions	
     			
-    - Best Practices	Practice
-    			
     - Operators	
     	- Arithmetic operators	
     	- Logical operators	
     	- Bitwise operators	
     	- Assignment operators	
     	- Relational operators	
-    	- Best Practices	Practice
+    	- 	
     	
     - Variables	
-    	- Declaration, Definition, Types	
-    	
-    - Best Practices	Practice
+    	- Declaration, Definition, Types		
     	
     - Syntax, Types	
-    
-    - Best Practices	
-    	
+
     - Object	
     	- Object Creation, Reference, Reference Variables	
-    	- Best Practices	
+    	- 	
     	
     - Constructors	
     - Pass by value and Pass by reference	
     - Access Specifiers	
     	
-    - Debugging in Eclipse IDE	Practice
+    - Debugging in Eclipse IDE	
 </details>
 <details>
   <summary>Day 1 session 2</summary>
@@ -102,6 +96,7 @@ Nadi & Team
 </details>
 <details>
   <summary>Day 2 session 1</summary>
+   
     -Oops Concepts
     
     -Inheritance
@@ -109,7 +104,7 @@ Nadi & Team
         -Multi level inheritance
         -Hierarchical inheritance
         -Why multiple inheritance not supports in Java
-        -Best Practice
+        -Best 
     
     -Abstraction
         -Abstraction using abstract classes
@@ -119,31 +114,33 @@ Nadi & Team
         -Interfaces vs Classes 
         -Nested Interfaces
         -Interface as a type
-        -Best Practice
+        -Best 
     
     -Static 
         -Static Variable
         -Static Methods
-        -Best Practice
+        -Best 
 </details>
 <details>
   <summary>Day 2 session 2</summary>
+    
     -Exception Handling
       -Throw and throws keywords
       -Categories of Exception, Exception hierarchy
       -Try catch and finally keywords
       -Customized exception
-      -Best Practice
+      -Best 
     
     -File Handling in java
       -Files, Streams, Types of streams
     
     -Regular Expressions
     
-    -Best Practice
+    -Best 
 </details>
 <details>
   <summary>Day 3 session 1</summary>
+ 
     -Collection Framework
       -Difference between array and collections
       -List, Set, Map Interface
@@ -152,11 +149,12 @@ Nadi & Team
       -ArrayList
       -HashSet
       -HashMap
-      -Best Practices
+      -
 </details>
 <details>
   <summary>Day 3 session 2</summary>
-      -Html Element Basics
+     
+    -Html Element Basics
         -Tag
         -Attribute, Property
         -Text
@@ -164,7 +162,7 @@ Nadi & Team
     -Locators
         -Selenium Locators
         -Locators Strategy
-        -Best Practices
+        -
     
     -First WebDriver Script
     
@@ -172,18 +170,18 @@ Nadi & Team
         -Introduction to base WE Methods -sendKeys, clear, click
         -Introduction to base wait types and window maximize
     
-    -Practice a testcase to write first script
+    - a testcase to write first script
     
         -Selenium Verifications
         -Browser Verifications - getTitle, getCurrentUrl
         -Element Verifications - getText, getAttribute, getCssColor
-        -Practice a testcase to implement verifications
+        - a testcase to implement verifications
     
     -Interact with elements
         -Edit, Button, Checkbox, Link, Radio button etc
         -Dropdown strategy
-        -Best Practices
-        -Practice a testcase to implement dropdowns
+        -
+        - a testcase to implement dropdowns
 </details>
 <details>
   <summary>Day 4 session 1</summary>
@@ -196,7 +194,7 @@ Nadi & Team
       -ArrayList
       -HashSet
       -HashMap
-      -Best Practices
+      -
     
     -Xpath Selector
       -Child & parent 
@@ -213,8 +211,8 @@ Nadi & Team
     -How to take snap
     -How does it differ on different browsers
     
-    -Best Practices
-    -Practice a testcase to interact with same locator elements
+    -
+    - a testcase to interact with same locator elements
 </details>
 <details>
   <summary>Day 4 session 2</summary>
@@ -225,9 +223,9 @@ Nadi & Team
     -Implement Exception Handling in the methods
     -Implement snapshot for every method
     -Implement logging to the methods
-    -Best Practices  
+    -  
   
-  -Practice multiple wrappers required for the project
+  - multiple wrappers required for the project
   
   -Alerts
     -Introduction to Alert
@@ -235,7 +233,7 @@ Nadi & Team
     -When to use what methods?
     -Sweet Alerts and Alert Snapshot
     -Expected Exceptions 
-    -Practice a testcase to using alert
+    - a testcase to using alert
   
   -Frames
     -Introduction to Frames
@@ -243,7 +241,7 @@ Nadi & Team
     -Handle Nested Frames
     -Approach to move out of the frame
     -Expected Exceptions 
-    -Practice a testcase to using frame(s)
+    - a testcase to using frame(s)
   
   -Introduction to Window Handles
     -Approach to move from one window to another
@@ -251,16 +249,15 @@ Nadi & Team
   -Close vs Quit
   
   -Expected Exceptions
-  
-  -Best Practices
-  -Practice a testcase to move from one window to another
+
+  - a testcase to move from one window to another
   
   -Implement Wrapper Methods for Alert, Frame and Windows
       -Wrappers to accept, dismiss and sendKeys of Alert
       -Wrappers to move by index, name/id or webelement for frame
       -Wrappers to switch to specific window (first / last)
  
-  -Practice a testcase using wait
+  - a testcase using wait
 </details>
 <details>
   <summary>Day 5 session 1</summary>
@@ -272,43 +269,46 @@ Nadi & Team
     -Actions Chain - build, perform
     -Actions known limitations
     -File Upload & File Download Method
-    -Best Practices
 
-    -Practice a testcase to use keyboard / mouse
+    - a testcase to use keyboard / mouse
 </details>
 <details>
   <summary>Day 5 session 2</summary>
 
-  -Project
-    -Project configuration with wrapper setup
-    -Practice testcases
+    -Project
+      -Project configuration with wrapper setup
+      - testcases
 </details>
 <details>
   <summary>Day 6 session 1</summary>
+  
     - Cucumber BDD basics
 </details>
 <details>
   <summary>Day 6 session 2</summary>
+  
     - Cucumber advanced
 </details>
 <details>
   <summary>Day 7 session 1</summary>
 
-  -Apache POI
-    -Why Apache POI
-    -Excel Read
-    -Excel Write
-    -Excel Append
-    -Integrate Data Provider of TestNG With Excel Read
-
-    -Practice testcases using excel read and dp
+    -Apache POI
+      -Why Apache POI
+      -Excel Read
+      -Excel Write
+      -Excel Append
+      -Integrate Data Provider of TestNG With Excel Read
+  
+      - testcases using excel read and dp
 </details>
 <details>
   <summary>Day 7 session 2</summary>
+  
     - PLACE HOLDER
 </details>
 <details>
   <summary>Day 8 session 1</summary>
+   
     -Page Object Model Framework
       -Why Page Object Model & When it will be effective
       -POM Design Rules
@@ -316,48 +316,49 @@ Nadi & Team
       -Implementation of testcases using POM framework
       -Implement Negative testcases
 
-    -Practice a single testcase using POM framework
+    - a single testcase using POM framework
 </details>
 <details>
   <summary>Day 8 session 2</summary>
+   
     - PLACE HOLDER
 </details>
 <details>
   <summary>Day 9 session 1</summary>
+    
     -Maven
-    -Maven Features
-    -Maven Build Process and Dependencies
-    -Maven Automation Project Build
-    -Best Practices
-  
-    -Practice to create new maven project
+      -Maven Features
+      -Maven Build Process and Dependencies
+      -Maven Automation Project Build
+      -to create new maven project
   
   -Git Repository
     -Git Clone
     -Git branch
     -Git commit
     -Git merge
-    -Best Practices
-  
-    -Practice to move your code to repo and use it in different machine
+    - to move your code to repo and use it in different machine
 </details>
 <details>
   <summary>Day 9 session 2</summary>
+    
     -Jenkins
-    -Install Jenkins
-    -Setup Maven Project in Jenkins
-    -Schedule the build
-    -Email Notification
-    -Report send configuration to clients about test run status
-  
-    -Practice to create new jenkins job
+      -Install Jenkins
+      -Setup Maven Project in Jenkins
+      -Schedule the build
+      -Email Notification
+      -Report send configuration to clients about test run status
+    
+      - to create new jenkins job
 </details>
 <details>
   <summary>Day 10 session 1</summary>
+    
     - Project framework setup
 </details>
 <details>
   <summary>Day 10 session 2</summary>
+      
     - Creating new test scripts 
 </details>
 

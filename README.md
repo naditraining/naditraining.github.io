@@ -217,60 +217,60 @@ Nadi & Team
 <details>
   <summary>Day 4 session 2</summary>
    
-  -Introduction to Wrapper Methods
-    -Develop Wrapper interface
-    -Implement methods using Selenium API
-    -Implement Exception Handling in the methods
-    -Implement snapshot for every method
-    -Implement logging to the methods
-    -  
+    -Introduction to Wrapper Methods
+      -Develop Wrapper interface
+      -Implement methods using Selenium API
+      -Implement Exception Handling in the methods
+      -Implement snapshot for every method
+      -Implement logging to the methods
+      -  
+    
+    - multiple wrappers required for the project
+    
+    -Alerts
+      -Introduction to Alert
+      -Methods in Alert Interface
+      -When to use what methods?
+      -Sweet Alerts and Alert Snapshot
+      -Expected Exceptions 
+      - a testcase to using alert
+    
+    -Frames
+      -Introduction to Frames
+      -How to Switch to a frame?
+      -Handle Nested Frames
+      -Approach to move out of the frame
+      -Expected Exceptions 
+      - a testcase to using frame(s)
+    
+    -Introduction to Window Handles
+      -Approach to move from one window to another
+    
+    -Close vs Quit
+    
+    -Expected Exceptions
   
-  - multiple wrappers required for the project
-  
-  -Alerts
-    -Introduction to Alert
-    -Methods in Alert Interface
-    -When to use what methods?
-    -Sweet Alerts and Alert Snapshot
-    -Expected Exceptions 
-    - a testcase to using alert
-  
-  -Frames
-    -Introduction to Frames
-    -How to Switch to a frame?
-    -Handle Nested Frames
-    -Approach to move out of the frame
-    -Expected Exceptions 
-    - a testcase to using frame(s)
-  
-  -Introduction to Window Handles
-    -Approach to move from one window to another
-  
-  -Close vs Quit
-  
-  -Expected Exceptions
-
-  - a testcase to move from one window to another
-  
-  -Implement Wrapper Methods for Alert, Frame and Windows
-      -Wrappers to accept, dismiss and sendKeys of Alert
-      -Wrappers to move by index, name/id or webelement for frame
-      -Wrappers to switch to specific window (first / last)
- 
-  - a testcase using wait
+    - a testcase to move from one window to another
+    
+    -Implement Wrapper Methods for Alert, Frame and Windows
+        -Wrappers to accept, dismiss and sendKeys of Alert
+        -Wrappers to move by index, name/id or webelement for frame
+        -Wrappers to switch to specific window (first / last)
+   
+    - a testcase using wait
 </details>
 <details>
   <summary>Day 5 session 1</summary>
 
-  -Introduction to Actions
-    -Introduction to Actions Class
-    -Mouse Actions like Drag & Drop, Mouse Over, Right Click
-    -KeyBoard Actions like SendKeys, KeysDown etc
-    -Actions Chain - build, perform
-    -Actions known limitations
-    -File Upload & File Download Method
-
-    - a testcase to use keyboard / mouse
+    -Introduction to Actions
+      -Introduction to Actions Class
+      -Mouse Actions like Drag & Drop, Mouse Over, Right Click
+      -KeyBoard Actions like SendKeys, KeysDown etc
+      -Actions Chain - build, perform
+      -Actions known limitations
+      -File Upload & File Download Method
+  
+      - a testcase to use keyboard / mouse
 </details>
 <details>
   <summary>Day 5 session 2</summary>
@@ -332,12 +332,12 @@ Nadi & Team
       -Maven Automation Project Build
       -to create new maven project
   
-  -Git Repository
-    -Git Clone
-    -Git branch
-    -Git commit
-    -Git merge
-    - to move your code to repo and use it in different machine
+    -Git Repository
+      -Git Clone
+      -Git branch
+      -Git commit
+      -Git merge
+      - to move your code to repo and use it in different machine
 </details>
 <details>
   <summary>Day 9 session 2</summary>

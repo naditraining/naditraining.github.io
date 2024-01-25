@@ -18,6 +18,10 @@ High level course content
 
 In detail course content
 
+<details>
+  <summary>Day 1 session 1</summary>
+  
+
 | Day | Session | Subject                                            | Type     |
 | --- | ------- | -------------------------------------------------- | -------- |
 | D1  | S1      | Introduction to automation testing                 |          |
@@ -61,6 +65,11 @@ In detail course content
 |     |         |     Access Specifiers                              |          |
 |     |         |                                                    |          |
 |     |         | Debugging in Eclipse IDE                           | Practice |
+
+</details>
+<details>
+  <summary>Day 1 session 2</summary>
+
 | Day | Session | Subject                                            | Type     |
 | D1  | S2      | Control Statement                                  | Theory   |
 |     |         |      If statement                                  |          |
@@ -92,3 +101,6 @@ In detail course content
 |     |         |      Method overloading                            |          |
 |     |         |                                                    |          |
 |     |         | Best practice                                      | Practice |
+
+</details>
+

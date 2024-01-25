@@ -13,11 +13,11 @@ Happy learning!
 
 Nadi & Team
 
-##### 📚 High level course content
+### 📚 High level course content
 
 <img width="810" alt="Screenshot 2024-01-25 at 12 55 52 PM" src="https://github.com/naditraining/naditraining.github.io/assets/157560787/0b22fedc-abbb-4d78-9b30-0655bf14370a">
 
-##### 📚 In detail course content
+### 📚 In detail course content
 
 <details>
   <summary>Day 1 session 1</summary>

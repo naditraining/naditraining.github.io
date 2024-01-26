@@ -28,6 +28,10 @@ Nadi & Team
         - Why selenium	
         - Selenium quick walkthrough	
         - Why java before selenium	
+        
+    - Set up to learn JAVA
+        - install JAVA
+        - install IDE - IntelliJ
           
     - Understanding of JVM, JRE & JDK	
           

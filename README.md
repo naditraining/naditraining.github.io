@@ -41,7 +41,10 @@ Nadi & Team
         - Primitive data types	
         - Reference data types  	
     
-    - Keywords, Identifiers, Expressions	
+    - Keywords in JAVA
+
+    - Variables	
+        - Declaration, initialisation, Types		
           
     - Operators	
         - Arithmetic operators	
@@ -49,31 +52,16 @@ Nadi & Team
         - Bitwise operators	
         - Assignment operators	
         - Relational operators	
-        - 	
       
-    - Variables	
-        - Declaration, Definition, Types		
-      
-    - Syntax, Types	
-    
-    - Object	
-      - Object Creation, Reference, Reference Variables	
-      
-    - Constructors	
-    - Pass by value and Pass by reference	
-    - Access Specifiers	
-      
-    - Debugging in Eclipse IDE	
-
-
-
-#### Day 1 session 2
-    
     - Control Statement	
         - If statement	
         - else statement	
         - if-else statement	
         - nested if statement	
+    
+
+#### Day 1 session 2
+    
                 
     - Looping Statement	
         - for statement	
@@ -89,10 +77,20 @@ Nadi & Team
         - Declaring and defining arrays	
         - Muti Dimensional arrays	
         - Object Arrays	
+
+    - Access Specifiers	
     
+    - Object	
+      - Object Creation, Reference, Reference Variables	
+      
+    - Constructors	
+    - Pass by value and Pass by reference	
+
     - Polymorphism	
         - Method overriding /Dynamic binding	
         - Method overloading	
+        
+    - Debugging in Eclipse IDE	
          
 #### Day 2 session 1
    

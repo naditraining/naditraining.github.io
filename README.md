@@ -34,12 +34,12 @@ Nadi & Team
         - install IDE - IntelliJ
           
     - Understanding of JVM, JRE & JDK	
-          
-    - Structure of a java program	
 
+    - Structure of java Project   
+    
+    - Structure of a java program	
         - Variables	
-            - Declaration, initialisation		
-        
+            - Declaration, initialisation		   
         - Method Syntax
 
     - Data Types	

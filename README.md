@@ -36,16 +36,18 @@ Nadi & Team
     - Understanding of JVM, JRE & JDK	
           
     - Structure of a java program	
-          
+
+        - Variables	
+            - Declaration, initialisation		
+        
+        - Method Syntax
+
     - Data Types	
         - Primitive data types	
         - Reference data types  	
     
     - Keywords in JAVA
-
-    - Variables	
-        - Declaration, initialisation, Types		
-          
+      
     - Operators	
         - Arithmetic operators	
         - Logical operators	
@@ -61,7 +63,6 @@ Nadi & Team
     
 
 #### Day 1 session 2
-    
                 
     - Looping Statement	
         - for statement	

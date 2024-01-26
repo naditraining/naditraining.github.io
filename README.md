@@ -46,8 +46,11 @@ Nadi & Team
         - Primitive data types	
         - Reference data types  	
     
-    - Keywords in JAVA
-      
+    - Arrays	
+        - Declaring and defining arrays	
+        - Muti Dimensional arrays	
+        - Object Arrays	
+
     - Operators	
         - Arithmetic operators	
         - Logical operators	
@@ -71,19 +74,19 @@ Nadi & Team
         - do.. while statement	
                 
     - Switch case	
+    
+    - Keywords in JAVA
+        - Break and continue 	
             
-    - Break and continue 	
-            
-    - Arrays	
-        - Declaring and defining arrays	
-        - Muti Dimensional arrays	
-        - Object Arrays	
-
     - Access Specifiers	
     
     - Object	
-      - Object Creation, Reference, Reference Variables	
-      
+        - Object Creation, Reference, Reference Variables	
+
+    -Static 
+        -Static Variable
+        -Static Methods
+
     - Constructors	
     - Pass by value and Pass by reference	
 
@@ -102,21 +105,17 @@ Nadi & Team
         -Multi level inheritance
         -Hierarchical inheritance
         -Why multiple inheritance not supports in Java
-         
-    -Abstraction
-        -Abstraction using abstract classes
-        -Abstraction using interfaces
-    
+
     -Interface
         -Interfaces vs Classes 
         -Nested Interfaces
         -Interface as a type
-          
-    -Static 
-        -Static Variable
-        -Static Methods
-         
 
+    -Abstraction
+        -Abstraction using abstract classes
+        -Abstraction using interfaces
+    
+          
 #### Day 2 session 2
     
     -Exception Handling
@@ -125,7 +124,6 @@ Nadi & Team
       -Try catch and finally keywords
       -Customized exception
        
-    
     -File Handling in java
       -Files, Streams, Types of streams
     

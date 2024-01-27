@@ -40,7 +40,7 @@ Nadi & Team
     - Structure of a java program	
         - Variables	
             - Declaration, initialisation		   
-        - Method Syntax
+        - Method Syntax and return statement 
 
     - Data Types	
         - Primitive data types	

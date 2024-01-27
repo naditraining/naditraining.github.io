@@ -66,14 +66,17 @@ Nadi & Team
     
 
 #### Day 1 session 2
-                
+
+    - Switch case
+    
     - Looping Statement	
         - for statement	
         - for each statement	
         - while statement	
         - do.. while statement	
-                
-    - Switch case	
+
+    - Attempting JAVA program to solve a simple problem using above learnt JAVA basics.
+        - find the sum of even numbers within a given range
     
     - Keywords in JAVA
         - Break and continue 	
@@ -83,9 +86,9 @@ Nadi & Team
     - Object	
         - Object Creation, Reference, Reference Variables	
 
-    -Static 
-        -Static Variable
-        -Static Methods
+    - Static 
+        - Static Variable
+        - Static Methods
 
     - Constructors	
     - Pass by value and Pass by reference	

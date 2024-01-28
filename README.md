@@ -15,7 +15,7 @@ Happy learning!
 
 Nadi & Team
 
-![Screenshot 2024-01-28 at 4 45 51 PM](https://github.com/naditraining/naditraining.github.io/assets/157560787/ac1445de-af6c-4ed5-a626-c5d8d728a219)   [Click to whatsapp us]([url](https://wa.me/919095119073))
+![Screenshot 2024-01-28 at 4 52 41 PM](https://github.com/naditraining/naditraining.github.io/assets/157560787/5cc07fbc-7b17-4c84-be88-72bf92ba5d8a) [Click to whatsapp us](https://wa.me/919095119073)
 
 ### 📚 High level course content
 

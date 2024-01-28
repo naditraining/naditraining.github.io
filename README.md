@@ -3,7 +3,6 @@
 
 ![download](https://github.com/naditraining/naditraining.github.io/assets/157560787/752e5106-775c-459c-9c8d-29d9a085d37d)
 
-
 We are thrilled to have you here as a part of our growing community of learners and educators. Here, we believe in the power of understanding the basics correctly which open doors to endless possibilities.
 
 Whether you're a student looking into IT career, an IT employee who want to upgrade or switch career, or someone passionate about continuous learning, you've come to the right place. 
@@ -15,6 +14,8 @@ Thank you for choosing us as your learning companion. Together, let's make the p
 Happy learning!
 
 Nadi & Team
+
+![Screenshot 2024-01-28 at 4 45 51 PM](https://github.com/naditraining/naditraining.github.io/assets/157560787/ac1445de-af6c-4ed5-a626-c5d8d728a219)   whatsapp us at - https://wa.me/919095119073
 
 ### 📚 High level course content
 
@@ -36,11 +37,18 @@ Nadi & Team
     - Understanding of JVM, JRE & JDK	
 
     - Structure of java Project   
+        - create new project, packages, class
+        - Purpose of package
+        - Naming conventions
     
-    - Structure of a java program	
+    - Structure of a java Class	
         - Variables	
             - Declaration, initialisation		   
         - Method Syntax and return statement 
+        - Main method
+        - How to run java program
+        - How to make calls to other methods from Main method
+        - How to debug a program
 
     - Data Types	
         - Primitive data types	
@@ -85,19 +93,19 @@ Nadi & Team
     
     - Object	
         - Object Creation, Reference, Reference Variables	
+        - Constructors
 
     - Static 
         - Static Variable
         - Static Methods
 
-    - Constructors	
     - Pass by value and Pass by reference	
 
     - Polymorphism	
         - Method overriding /Dynamic binding	
         - Method overloading	
         
-    - Debugging in Eclipse IDE	
+    - Debugging in IDE	
          
 #### Day 2 session 1
    

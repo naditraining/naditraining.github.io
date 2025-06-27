@@ -1,7 +1,7 @@
 
 # Welcome to DevOps training with us!
 
-![download](https://github.com/naditraining/naditraining.github.io/assets/157560787/752e5106-775c-459c-9c8d-29d9a085d37d)
+![devops-logo-sinletras](https://github.com/user-attachments/assets/7979f9d9-098c-49d9-82a6-03bc0d864e2b)
 
 We are thrilled to have you here as a part of our growing community of learners and educators. Here, we believe in the power of understanding the basics correctly will open doors to endless possibilities.
 

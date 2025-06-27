@@ -26,7 +26,7 @@ Nadimuthu Jayapal & Team
 #### Week 1 Day 1 session 1
 
     - Introduction to DevOps
-        - Why DevOps (understanding the purpose and principle of devops)
+        - understanding the purpose and principle of devops
         - How a day looks like in devops engineer life
         - DevOps Tools Landscape
         - overview of what we achieve/ build in this course
@@ -74,15 +74,16 @@ Nadimuthu Jayapal & Team
       - Freestyle Jobs
       - demo
         - deploy web app with freestyle jobs
+           
+#### Week 2 Day 3 session 1
 
     - CI/CD with jenkins - advanced  
       - Declarative vs scripted pipeline
       - Piepline as code (Jenkinsfile)
       - Demo    
         - deploy java sprint web app with JenkinsFile
-           
-#### Week 2 Day 3 session 1
  
+#### Week 2 Day 3 session 2
     - Container and Docker
       - why containers & what problems it solve
       - Docker basics
@@ -96,47 +97,55 @@ Nadimuthu Jayapal & Team
           - run the containers
           - debug the containers
           - manage the container lifecyle
-      -Docker adavanced
-        - networking
-          - Demo on different networks    
-        - volumes
-          - Demo on different volume types
-        - docker-compose
-      -build production ready docker containers
 
-#### Week 2 Day 3 session 2
-     
+#### Week 2 Day 4 session 1
+
+    -Docker adavanced
+      - networking
+          - Demo on different networks    
+      - volumes
+          - Demo on different volume types
+      - docker-compose
+    -build production ready docker containers
+
+#### Week 2 Day 4 session 2
+
     -Kubernetes Fundamentals
       - Why kubernetes
       - Understanding components of kubernetes (architecture)
         - pods, deployments, nodes, services, namespace, label, label selector
       - Understand design of traffic flow to application in k8s
-      - Minikube or k3s setup
-      - how to set up real time k8s using kubeadm (multi node cluster)
-      - detailed demo on kubernetes capabilities
-        - deployments
-        - auto scaling
-        - auto healing
-        - roll back
+    - Minikube or k3s setup
+    - how to set up real time k8s using kubeadm (multi node cluster)
 
-#### Week 2 Day 4 session 1
-   
+#### Week 3 Day 5 session 1
+
+    - Detailed demo on kubernetes capabilities
+      - deployments
+      - auto scaling
+      - auto healing
+      - roll back
+       
+#### Week 3 Day 5 session 2
+
     -kubernetes real time use case
       - deploy 3 tier application 
       - integrate ingress controller
       - integrate Cloud based load balancer integration
 
-#### Week 2 Day 4 session 2
-   
+#### Week 3 Day 6 session 1
+
     -Monitoring kubernetes environment (prometheus)
       -set up prometheus 
       -Analyse system monitoring
+
+#### Week 3 Day 6 session 2
 
     -Monitoring kubernetes environment (Grafana)
       -set up Grafana 
       -Analyse system monitoring
 
-#### Day 5 session 1
+#### Week 4 Day 7 session 1
 
     -Introduction to AWS cloud 
       - Virtual machines (EC2, IAM, Key Pairs)
@@ -145,18 +154,22 @@ Nadimuthu Jayapal & Team
       - AWS CLI
         - configure AWS CLI
       - Hands on: Launch & connect to EC2, deploy an app
-    
-#### Day 5 session 2
 
-    - Ansuble - congfiguraton management
+#### Week 4 Day 7 session 2
+
+    - AWS hands on (continued)
+
+#### Week 4 Day 8 
+
+    - Ansible - congfiguraton management
       - YAML basics
       - inventory
       - modules
       - Playbooks, roles, variables, handlers
       - Hands-on: Provision a web server using Ansible
 
-#### Day 6 session 1
-  
+#### Week 5 Day 9 
+
     - Terraform (cloud resources management)
       - understand the architecture
       - understand lifecycle
@@ -165,13 +178,11 @@ Nadimuthu Jayapal & Team
       - write terraform (.tf Files)
         - deploy cloud resources
 
-#### Day 6 session 2
+    - Terraform advanced 
+      - manage state lock using dynamodb
+      - terraform modules
 
-    - manage state lock using dynamodb
-    - terraform modules
-
-
-#### Day 7 session 1
+#### Week 5 Day 10
 
     - Helm 
       - learn problem it resolves and architecture 
@@ -180,7 +191,8 @@ Nadimuthu Jayapal & Team
     - Deploy argo CD    
       - deploy argo cd using helm
 
-#### Day 7 session 2
+#### Week 6 Day 11
+
     - Basics of python
       - understand when to use python
       - learn architecture
@@ -190,15 +202,10 @@ Nadimuthu Jayapal & Team
         - execute the program
         - debug the program
 
-#### Day 8 session 1 & 2
+#### Week 6 Day 10
+
     -Implement production grade web app
       - 3 tier app
       - deploy in AWS EKS
       - use terraform for cloud resources
       - monitor app performance using grafana
-
-#### Day 9 
-    - PLACEHOLDER
-
-#### Day 10
-    - PLACEHOLDER

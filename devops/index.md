@@ -202,7 +202,7 @@ Nadimuthu Jayapal & Team
         - execute the program
         - debug the program
 
-#### Week 6 Day 10
+#### Week 6 Day 12
 
     -Implement production grade web app
       - 3 tier app

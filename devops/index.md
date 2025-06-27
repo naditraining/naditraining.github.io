@@ -196,3 +196,11 @@ Nadimuthu Jayapal & Team
       - deploy in AWS EKS
       - use terraform for cloud resources
       - monitor app performance using grafana
+
+#### Week 7 (Saturday & Sunday)
+
+    - PLACEHOLDER (if training spil out of planned time)
+
+#### Week 8 (Saturday & Sunday)
+
+    - PLACEHOLDER (if training spil out of planned time)

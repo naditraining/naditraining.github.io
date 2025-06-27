@@ -23,7 +23,7 @@ Nadimuthu Jayapal & Team
 
 ### 📚 In detail course content
 
-#### Week 1 Day 1 session 1
+#### Week 1 (Saturday)
 
     - Introduction to DevOps
         - understanding the purpose and principle of devops
@@ -40,8 +40,6 @@ Nadimuthu Jayapal & Team
           - script execution
           - how to debug     
 
-#### Week 1 Day 1 session 2
-
     - Linux Deep dive Part 2
         - Package management
         - Process & Resource Management
@@ -51,7 +49,7 @@ Nadimuthu Jayapal & Team
         - System Services
         - Filesystem and Disk Management
          
-#### Week 1 Day 2 session 1
+#### Week 1 (Sunday)
    
     - Git Basics
         - basic commands
@@ -63,9 +61,7 @@ Nadimuthu Jayapal & Team
         - Resolving merge conflicts
         - Git rebase
         - Git cherry pick    
-          
-#### Week 1 Day 2 session 2
-    
+              
     - CI/CD with jenkins - Basics
       - Why Jenkin & what problem it solves.
       - Architecture understanding
@@ -75,7 +71,7 @@ Nadimuthu Jayapal & Team
       - demo
         - deploy web app with freestyle jobs
            
-#### Week 2 Day 3 session 1
+#### Week 2 (Saturday)
 
     - CI/CD with jenkins - advanced  
       - Declarative vs scripted pipeline
@@ -83,7 +79,6 @@ Nadimuthu Jayapal & Team
       - Demo    
         - deploy java sprint web app with JenkinsFile
  
-#### Week 2 Day 3 session 2
     - Container and Docker
       - why containers & what problems it solve
       - Docker basics
@@ -98,7 +93,7 @@ Nadimuthu Jayapal & Team
           - debug the containers
           - manage the container lifecyle
 
-#### Week 2 Day 4 session 1
+#### Week 2 (Sunday)
 
     -Docker adavanced
       - networking
@@ -108,8 +103,6 @@ Nadimuthu Jayapal & Team
       - docker-compose
     -build production ready docker containers
 
-#### Week 2 Day 4 session 2
-
     -Kubernetes Fundamentals
       - Why kubernetes
       - Understanding components of kubernetes (architecture)
@@ -118,7 +111,7 @@ Nadimuthu Jayapal & Team
     - Minikube or k3s setup
     - how to set up real time k8s using kubeadm (multi node cluster)
 
-#### Week 3 Day 5 session 1
+#### Week 3 (Saturday)
 
     - Detailed demo on kubernetes capabilities
       - deployments
@@ -126,26 +119,22 @@ Nadimuthu Jayapal & Team
       - auto healing
       - roll back
        
-#### Week 3 Day 5 session 2
-
     -kubernetes real time use case
       - deploy 3 tier application 
       - integrate ingress controller
       - integrate Cloud based load balancer integration
 
-#### Week 3 Day 6 session 1
+#### Week 3 (Sunday)
 
     -Monitoring kubernetes environment (prometheus)
       -set up prometheus 
       -Analyse system monitoring
 
-#### Week 3 Day 6 session 2
-
     -Monitoring kubernetes environment (Grafana)
       -set up Grafana 
       -Analyse system monitoring
 
-#### Week 4 Day 7 session 1
+#### Week 4 (Saturday)
 
     -Introduction to AWS cloud 
       - Virtual machines (EC2, IAM, Key Pairs)
@@ -155,11 +144,9 @@ Nadimuthu Jayapal & Team
         - configure AWS CLI
       - Hands on: Launch & connect to EC2, deploy an app
 
-#### Week 4 Day 7 session 2
-
     - AWS hands on (continued)
 
-#### Week 4 Day 8 
+#### Week 4 (Sunday)
 
     - Ansible - congfiguraton management
       - YAML basics
@@ -168,7 +155,7 @@ Nadimuthu Jayapal & Team
       - Playbooks, roles, variables, handlers
       - Hands-on: Provision a web server using Ansible
 
-#### Week 5 Day 9 
+#### Week 5 (Saturday)
 
     - Terraform (cloud resources management)
       - understand the architecture
@@ -182,7 +169,7 @@ Nadimuthu Jayapal & Team
       - manage state lock using dynamodb
       - terraform modules
 
-#### Week 5 Day 10
+#### Week 5 (Sunday)
 
     - Helm 
       - learn problem it resolves and architecture 
@@ -191,7 +178,7 @@ Nadimuthu Jayapal & Team
     - Deploy argo CD    
       - deploy argo cd using helm
 
-#### Week 6 Day 11
+#### Week 6 (Saturday)
 
     - Basics of python
       - understand when to use python
@@ -202,7 +189,7 @@ Nadimuthu Jayapal & Team
         - execute the program
         - debug the program
 
-#### Week 6 Day 12
+#### Week 6 (Sunday)
 
     -Implement production grade web app
       - 3 tier app

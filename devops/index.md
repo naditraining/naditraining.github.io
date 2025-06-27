@@ -23,18 +23,24 @@ Nadimuthu Jayapal & Team
 
 ### 📚 In detail course content
 
-#### Day 1 session 1
+#### Week 1 Day 1 session 1
 
     - Introduction to DevOps
-        - Why DevOps
+        - Why DevOps (understanding the purpose and principle of devops)
+        - How a day looks like in devops engineer life
         - DevOps Tools Landscape
-        - How the job role will look like
+        - overview of what we achieve/ build in this course
         
-    - Linux Deep dive Part 1
-        - Basics
-        - Shell scripting    
+    - Linux Basics
+        - directories, interaction, file operations, permissions and user & groups
+        - Shell scripting
+          - understanding the purpose
+          - syntax 
+          - script preparation 
+          - script execution
+          - how to debug     
 
-#### Day 1 session 2
+#### Week 1 Day 1 session 2
 
     - Linux Deep dive Part 2
         - Package management
@@ -45,7 +51,7 @@ Nadimuthu Jayapal & Team
         - System Services
         - Filesystem and Disk Management
          
-#### Day 2 session 1
+#### Week 1 Day 2 session 1
    
     - Git Basics
         - basic commands
@@ -58,46 +64,69 @@ Nadimuthu Jayapal & Team
         - Git rebase
         - Git cherry pick    
           
-#### Day 2 session 2
+#### Week 1 Day 2 session 2
     
-    - CI/CD with jenkins
+    - CI/CD with jenkins - Basics
       - Why Jenkin & what problem it solves.
-      - Architecture
+      - Architecture understanding
       - Installation/ Set up 
       - Plugins 
       - Freestyle Jobs
+      - demo
+        - deploy web app with freestyle jobs
 
-    - Jenkins advanced  
+    - CI/CD with jenkins - advanced  
       - Declarative vs scripted pipeline
       - Piepline as code (Jenkinsfile)
+      - Demo    
+        - deploy java sprint web app with JenkinsFile
            
-#### Day 3 session 1
+#### Week 2 Day 3 session 1
  
     - Container and Docker
-      - why containers
+      - why containers & what problems it solve
       - Docker basics
-        - build and run containers
-      -Docker networking, volumes and compose
+        - set up
+        - life cycyle of containers
+        - build containers (DockerFile)
+          - write docker file
+          - use different components of docker file   
+          - build the image
+        - basic docker commands demonstration
+          - run the containers
+          - debug the containers
+          - manage the container lifecyle
+      -Docker adavanced
+        - networking
+          - Demo on different networks    
+        - volumes
+          - Demo on different volume types
+        - docker-compose
       -build production ready docker containers
 
-#### Day 3 session 2
+#### Week 2 Day 3 session 2
      
     -Kubernetes Fundamentals
       - Why kubernetes
-      - Understanding components of kubernetes
-      - pods, deployments, nodes, services, namespace, label, label selector
+      - Understanding components of kubernetes (architecture)
+        - pods, deployments, nodes, services, namespace, label, label selector
       - Understand design of traffic flow to application in k8s
       - Minikube or k3s setup
       - how to set up real time k8s using kubeadm (multi node cluster)
-    
-#### Day 4 session 1
+      - detailed demo on kubernetes capabilities
+        - deployments
+        - auto scaling
+        - auto healing
+        - roll back
+
+#### Week 2 Day 4 session 1
    
     -kubernetes real time use case
       - deploy 3 tier application 
-      - ingress controller
-      - Cloud based load balancer integration
+      - integrate ingress controller
+      - integrate Cloud based load balancer integration
 
-#### Day 4 session 2
+#### Week 2 Day 4 session 2
    
     -Monitoring kubernetes environment (prometheus)
       -set up prometheus 
@@ -110,37 +139,66 @@ Nadimuthu Jayapal & Team
 #### Day 5 session 1
 
     -Introduction to AWS cloud 
-      - EC2, IAM, Key Pairs, Security Groups
-      - S3 introduction, AWS CLI
+      - Virtual machines (EC2, IAM, Key Pairs)
+      - Cloud networking (VPC, Security Groups, NAT, NACL)
+      - S3 & RDS
+      - AWS CLI
+        - configure AWS CLI
       - Hands on: Launch & connect to EC2, deploy an app
-
+    
 #### Day 5 session 2
 
-    - YAML basics, inventory, modules
-    - Playbooks, roles, variables, handlers
-    - Hands-on: Provision a web server using Ansible
+    - Ansuble - congfiguraton management
+      - YAML basics
+      - inventory
+      - modules
+      - Playbooks, roles, variables, handlers
+      - Hands-on: Provision a web server using Ansible
 
 #### Day 6 session 1
   
     - Terraform (cloud resources management)
+      - understand the architecture
+      - understand lifecycle
+        - init, plan and apply
+      - set up terraform
+      - write terraform (.tf Files)
+        - deploy cloud resources
 
 #### Day 6 session 2
-  
-    - GitOps using argaocd
+
+    - manage state lock using dynamodb
+    - terraform modules
+
 
 #### Day 7 session 1
 
+    - Helm 
+      - learn problem it resolves and architecture 
+      - basics (repo, charts, install, manage) 
+
+    - Deploy argo CD    
+      - deploy argo cd using helm
+
+#### Day 7 session 2
+    - Basics of python
+      - understand when to use python
+      - learn architecture
+      - python set up
+      - python basics
+        - write basic program
+        - execute the program
+        - debug the program
+
+#### Day 8 session 1 & 2
     -Implement production grade web app
       - 3 tier app
       - deploy in AWS EKS
       - use terraform for cloud resources
       - monitor app performance using grafana
 
-#### Day 7 session 2
-    - placeholder for extended classes
+#### Day 9 
+    - PLACEHOLDER
 
-#### Day 8 session 1
-    - placeholder for extended classes  
-
-#### Day 8 session 2
-    - placeholder for extended classes  
+#### Day 10
+    - PLACEHOLDER

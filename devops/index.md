@@ -21,6 +21,8 @@ Nadimuthu Jayapal & Team
 
 ![Screenshot 2024-01-28 at 4 52 41 PM](https://github.com/naditraining/naditraining.github.io/assets/157560787/5cc07fbc-7b17-4c84-be88-72bf92ba5d8a) [Click to whatsapp us](https://wa.me/919095119073)
 
+WhatsApp us at +91 9095119073
+
 ### 📚 In detail course content
 
 #### Week 1 (Saturday)
